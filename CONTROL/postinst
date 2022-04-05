@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo "***********************************"
+echo "*           TestCockpit           *"
+echo "*               by                *"
+echo "*          dream-alpha            *"
+echo "***********************************"
+echo ""
+echo "Plugin TestCockpit installed successfully."
+echo "Please restart DreamOS now!"
+echo ""
+exit 0
